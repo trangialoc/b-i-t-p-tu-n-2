@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    background-color: red;
+    color: white;
+}
+
+span{
+    color: blue;
+}
+tr,td{
+    color: orange;
+}
+
+.main{
+    background-color: white;
+
+}

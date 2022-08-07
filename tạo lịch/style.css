@@ -1,0 +1,42 @@
+h1{
+    color: blue;
+}
+table{
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+}
+.line td{
+    border: 2px solid #b4b4b4;
+    width: 50px;
+}
+.cn{
+    color: red;
+}
+.sat{
+    color: blue;
+}
+.thutv td{
+    border: 1px solid white;
+    background-color: orange;
+    color: white;
+}
+.thutv .sat1 {
+    background-color: blue;
+}
+.thutv .cn1 {
+    background-color: red;
+}
+sub{
+    color: black;
+}
+padding-right: 3px;
+padding-left: 3px;
+}
+
+
+.box2 th{
+    text-align:left ;
+}
